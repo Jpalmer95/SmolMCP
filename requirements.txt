@@ -1,0 +1,8 @@
+gradio
+smolagents
+huggingface_hub
+litellm
+lxml
+beautifulsoup4
+spaces
+transformers
